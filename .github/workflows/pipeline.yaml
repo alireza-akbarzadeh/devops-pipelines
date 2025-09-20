@@ -1,7 +1,7 @@
 name: Ci Pipeline
 on:
   push:
-    branches: [main]
+    branches: [develop]
 
 jobs:
   build:
